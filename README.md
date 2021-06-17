@@ -1,9 +1,11 @@
 ### Hi there 👋
 Thanks for checking out my page! 
-Besides talking to people about GitHub, these are some things I'm passionate about
-- Cooking up a meal or two
+Besides talking to people about GitHub, these are some things I'm passionate about:
+- Cooking up a meal
 - Going for a run with my dog Hugo
 - Learning about wine
+- Photography 
+- Throwing a ball through a ring
 
 ### Fun Fact: 
 I can chop an onion blindfolded 
