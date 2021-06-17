@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks for checking out my page! 
 Besides talking to people about GitHub, these are some things I'm passionate about:
-- Cooking up a meal
+- Cooking outdoors
 - Going for a run with my dog Hugo
 - Learning about wine
 - Photography
