@@ -1,5 +1,12 @@
 ### Hi there 👋
+Thanks for checking out my page! 
+Besides talking to people about GitHub, these are some things I'm passionate about
+- Cooking up a meal or two
+- Going for a run with my dog Hugo
+- Learning about wine
 
+### Fun Fact: 
+I can chop an onion blindfolded 
 <!--
 **rweinmiller/rweinmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
