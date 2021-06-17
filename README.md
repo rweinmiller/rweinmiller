@@ -9,6 +9,9 @@ Besides talking to people about GitHub, these are some things I'm passionate abo
 
 ### Fun Fact: 
 I can chop an onion blindfolded 
+
+
+
 ![T1Co28cy_400x400](https://user-images.githubusercontent.com/83973156/122442083-7b93d380-cf9e-11eb-9bde-884c7a17b10f.jpeg)
 
 
